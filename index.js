@@ -1,3 +1,4 @@
+
 //Gráfico de Barras. Mi 1º grafico
  var visualization = d3plus.viz()
   .container("#viz1") 
